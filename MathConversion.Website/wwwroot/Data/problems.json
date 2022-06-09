@@ -1,0 +1,33 @@
+[
+  {
+    "Fraction": "4/5",
+    "Decimal": 0.8,
+    "Percentage": 80
+  },
+  {
+    "Fraction": "1/2",
+    "Decimal": 0.5,
+    "Percentage": 50
+  },
+  {
+    "Fraction": "1/3",
+    "Decimal": 0.33,
+    "Percentage": 33
+  },
+  {
+    "Fraction": "1/8",
+    "Decimal": 0.125,
+    "Percentage": 12
+  },
+  {
+    "Fraction": "1/9",
+    "Decimal": 0.111,
+    "Percentage": 11
+  },
+  {
+    "Fraction": "1/5",
+    "Decimal": 0.2,
+    "Percentage": 20
+  }
+]
+   

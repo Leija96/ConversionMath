@@ -1,3 +1,4 @@
+using MathConversion.Website.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -24,6 +25,7 @@ namespace MathConversion.Website
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+            services.AddTransient<JsonFileProblemService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
